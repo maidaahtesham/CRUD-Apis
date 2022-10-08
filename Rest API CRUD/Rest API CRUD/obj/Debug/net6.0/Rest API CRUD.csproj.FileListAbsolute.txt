@@ -1,0 +1,28 @@
+D:\project\Rest API CRUD\Rest API CRUD\bin\Debug\net6.0\appsettings.Development.json
+D:\project\Rest API CRUD\Rest API CRUD\bin\Debug\net6.0\appsettings.json
+D:\project\Rest API CRUD\Rest API CRUD\bin\Debug\net6.0\Rest API CRUD.exe
+D:\project\Rest API CRUD\Rest API CRUD\bin\Debug\net6.0\Rest API CRUD.deps.json
+D:\project\Rest API CRUD\Rest API CRUD\bin\Debug\net6.0\Rest API CRUD.runtimeconfig.json
+D:\project\Rest API CRUD\Rest API CRUD\bin\Debug\net6.0\Rest API CRUD.dll
+D:\project\Rest API CRUD\Rest API CRUD\bin\Debug\net6.0\Rest API CRUD.pdb
+D:\project\Rest API CRUD\Rest API CRUD\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\project\Rest API CRUD\Rest API CRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\project\Rest API CRUD\Rest API CRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\project\Rest API CRUD\Rest API CRUD\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\project\Rest API CRUD\Rest API CRUD\obj\Debug\net6.0\Rest API CRUD.csproj.AssemblyReference.cache
+D:\project\Rest API CRUD\Rest API CRUD\obj\Debug\net6.0\Rest API CRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Rest API CRUD\Rest API CRUD\obj\Debug\net6.0\Rest API CRUD.AssemblyInfoInputs.cache
+D:\project\Rest API CRUD\Rest API CRUD\obj\Debug\net6.0\Rest API CRUD.AssemblyInfo.cs
+D:\project\Rest API CRUD\Rest API CRUD\obj\Debug\net6.0\Rest API CRUD.csproj.CoreCompileInputs.cache
+D:\project\Rest API CRUD\Rest API CRUD\obj\Debug\net6.0\Rest API CRUD.MvcApplicationPartsAssemblyInfo.cs
+D:\project\Rest API CRUD\Rest API CRUD\obj\Debug\net6.0\Rest API CRUD.MvcApplicationPartsAssemblyInfo.cache
+D:\project\Rest API CRUD\Rest API CRUD\obj\Debug\net6.0\staticwebassets.build.json
+D:\project\Rest API CRUD\Rest API CRUD\obj\Debug\net6.0\staticwebassets.development.json
+D:\project\Rest API CRUD\Rest API CRUD\obj\Debug\net6.0\scopedcss\bundle\Rest API CRUD.styles.css
+D:\project\Rest API CRUD\Rest API CRUD\obj\Debug\net6.0\Rest API CRUD.csproj.CopyComplete
+D:\project\Rest API CRUD\Rest API CRUD\obj\Debug\net6.0\Rest API CRUD.dll
+D:\project\Rest API CRUD\Rest API CRUD\obj\Debug\net6.0\refint\Rest API CRUD.dll
+D:\project\Rest API CRUD\Rest API CRUD\obj\Debug\net6.0\Rest API CRUD.pdb
+D:\project\Rest API CRUD\Rest API CRUD\obj\Debug\net6.0\Rest API CRUD.genruntimeconfig.cache
+D:\project\Rest API CRUD\Rest API CRUD\obj\Debug\net6.0\ref\Rest API CRUD.dll
+D:\project\Rest API CRUD\Rest API CRUD\bin\Debug\net6.0\web.config
